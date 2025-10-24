@@ -60,3 +60,4 @@ interface BusAnimationVisualization
     public function getRequiredChannels(): array;
 }
 
+

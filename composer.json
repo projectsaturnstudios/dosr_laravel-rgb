@@ -2,7 +2,7 @@
   "name": "dept-of-scrapyard-robotics/laravel-rgb",
   "description": "A Laravel package for controlling RGB LED strips using the phpixel extension.",
   "type": "library",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "license": "MIT",
   "require": {
     "php": "^8.3",
